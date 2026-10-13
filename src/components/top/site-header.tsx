@@ -10,6 +10,7 @@ const NAV_ITEMS: { label: string; href?: string }[] = [
   { label: "会社概要", href: "/company" },
   { label: "サービス", href: "/services" },
   { label: "ニュース", href: "/news" },
+  { label: "採用情報", href: "/recruit" },
   { label: "お問い合わせ" },
 ];
 
