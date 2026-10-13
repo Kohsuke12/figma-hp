@@ -8,6 +8,7 @@ const FOOTER_NAVS = [
       { label: "会社概要", href: "/company" },
       { label: "代表メッセージ", href: "/company#message" },
       { label: "アクセス", href: "/company#access" },
+      { label: "採用情報", href: "/recruit" },
     ],
   },
   {
